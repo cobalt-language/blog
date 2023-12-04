@@ -1,8 +1,8 @@
 ---
-title = "First Post"
-published = "2023-12-3"
-author = "Matthew Cornell"
-tags = ["blog"]
+title: "First Post"
+published: 2023-12-03
+author: "Matthew Cornell"
+tags: ["blog"]
 ---
 
 I'll keep this short, mostly because I just need to have something here in order to get everything set up properly.
